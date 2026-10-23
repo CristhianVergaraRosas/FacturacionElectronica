@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bd75f47b-87ac-4576-b71b-305967fa5d1f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53116/ConsultaServicio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ConsultaServicio.xsd" MetadataType="Schema" ID="14cbd363-f4a8-463c-82ab-04240a15b821" SourceId="1" SourceUrl="http://localhost:53116/ConsultaServicio.svc?xsd=xsd1" />
+    <MetadataFile FileName="ConsultaServicio.disco" MetadataType="Disco" ID="1e2069f8-055d-4f5b-975b-f49316a2c800" SourceId="1" SourceUrl="http://localhost:53116/ConsultaServicio.svc?disco" />
+    <MetadataFile FileName="ConsultaServicio1.xsd" MetadataType="Schema" ID="65417ae4-09a6-40c8-90a0-91f606e96ad7" SourceId="1" SourceUrl="http://localhost:53116/ConsultaServicio.svc?xsd=xsd0" />
+    <MetadataFile FileName="ConsultaServicio2.xsd" MetadataType="Schema" ID="3e5f47ac-dfb0-4c0d-ad9e-bb351bba2fbe" SourceId="1" SourceUrl="http://localhost:53116/ConsultaServicio.svc?xsd=xsd2" />
+    <MetadataFile FileName="ConsultaServicio.wsdl" MetadataType="Wsdl" ID="6573657e-2989-4def-9627-c3b54e443eca" SourceId="1" SourceUrl="http://localhost:53116/ConsultaServicio.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

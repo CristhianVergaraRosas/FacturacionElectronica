@@ -1,0 +1,11 @@
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\bin\Debug\ConsultaCliente.exe.config
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.Resources.resources
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.vbproj.GenerateResource.Cache
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.Form1.resources
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\bin\Debug\ConsultaCliente.exe
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\bin\Debug\ConsultaCliente.pdb
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\bin\Debug\ConsultaCliente.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.exe
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.pdb
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaCliente\obj\Debug\ConsultaCliente.vbprojResolveAssemblyReference.cache
