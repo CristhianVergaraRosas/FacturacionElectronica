@@ -11,7 +11,7 @@ Public Class Form1
         Try
             Dim sql As String = txtQuery.Text.Trim()
             If String.IsNullOrEmpty(sql) Then
-                MessageBox.Show("Ingresa una query.")
+                MessageBox.Show("Ingresa una query.        ")
                 Exit Sub
             End If
 
