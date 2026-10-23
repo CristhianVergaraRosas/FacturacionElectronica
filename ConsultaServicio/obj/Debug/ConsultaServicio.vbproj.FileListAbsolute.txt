@@ -1,0 +1,9 @@
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\bin\ConsultaServicio.dll.config
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\bin\ConsultaServicio.dll
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\bin\ConsultaServicio.pdb
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\bin\ConsultaServicio.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\obj\Debug\ConsultaServicio.Resources.resources
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\obj\Debug\ConsultaServicio.vbproj.GenerateResource.Cache
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\obj\Debug\ConsultaServicio.dll
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\obj\Debug\ConsultaServicio.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\ConsultaServicio\obj\Debug\ConsultaServicio.pdb
