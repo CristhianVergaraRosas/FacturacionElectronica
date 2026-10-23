@@ -1,0 +1,9 @@
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\bin\Debug\QueryClient.dll.config
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\bin\Debug\QueryClient.dll
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\bin\Debug\QueryClient.pdb
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\bin\Debug\QueryClient.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\obj\Debug\QueryClient.Resources.resources
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\obj\Debug\QueryClient.vbproj.GenerateResource.Cache
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\obj\Debug\QueryClient.dll
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\obj\Debug\QueryClient.xml
+D:\Soluciones\ConsultaSQL\ConsultaSQL\QueryClient\obj\Debug\QueryClient.pdb
